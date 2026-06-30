@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppegolo&show_icons=true&theme=radical)
+[![ppegolo's GitHub stats](https://github-stats-extended.vercel.app/api?username=ppegolo)](https://github.com/stats-organization/github-stats-extended)
